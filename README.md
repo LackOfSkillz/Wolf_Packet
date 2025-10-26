@@ -41,4 +41,4 @@ MIT / GPLv3 (Final license TBD)
 
 See the LICENSE file for full details once chosen.
 
-Developed by Old Wolf Ranch.
+
